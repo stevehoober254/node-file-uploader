@@ -10,11 +10,11 @@ Includes:
 ## How to Run
 
 ````bash
- git clone https://github.com/stevehoober254/node-file-uploader.git
+git clone https://github.com/stevehoober254/node-file-uploader.git
 ````
 
 ````bash
- cd node-file-uploader
+cd node-file-uploader
  ````
 
  ````bash
